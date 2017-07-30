@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         HighLightToDemo
 // @namespace    https://github.com/ScratchAT/HighLightToDemo/
-// @version      1.0
+// @version      1.1
 // @description  try to take over the world!
 // @updateURL    https://github.com/ScratchAT/HighLightToDemo/raw/master/hltd.user.js
 // @author       herohamp
