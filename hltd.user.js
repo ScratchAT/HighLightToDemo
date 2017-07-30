@@ -15,7 +15,7 @@ $("a.thumbnail-image").mouseover(
 
   if (!$(this).attr("active")){
 
-    $(this).html('<iframe src="https://phosphorus.github.io/app.html?id='+this.getAttribute('href').replace('/projects/',"").replace("/","")+'&turbo=false&full-screen=true"style=top:0;bottom:0;left:0;right:0;height:100%;width:100%></iframe>');
+    $(this).html('<script src=https://phosphorus.github.io/embed.js?id='+this.getAttribute('href').replace('/projects/',"").replace("/","")+'&auto-start=true></script>"style=top:0;bottom:0;left:0;right:0;height:100%;width:100%></iframe>');
 $(this).attr( "active", "Beijing Brush Seller" );
 } 
 
